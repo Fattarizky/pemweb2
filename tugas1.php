@@ -1,5 +1,5 @@
 #!/usr/bin/php
 <?php
 
-echo "Satria Cahyo Nugroho\n20090089\n4C\n";
+echo "Fattarizky Akbar Faturohman\n20090157\n4A\n";
 ?>
